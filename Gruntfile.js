@@ -33,12 +33,8 @@ module.exports = function(grunt) {
                     "./src/element.js",
                     "./src/matrix.js",
                     "./src/attr.js",
-                    "./src/class.js",
-                    "./src/attradd.js",
                     "./src/paper.js",
                     "./src/path.js",
-                    "./src/set.js",
-                    "./src/equal.js",
                     "./src/mouse.js",
                     "./src/filter.js",
                     "./src/amd-footer.js"
